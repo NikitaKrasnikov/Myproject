@@ -1,1 +1,1 @@
-Project vebinar
+Это изменение из main
